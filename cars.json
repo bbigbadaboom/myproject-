@@ -1,0 +1,18 @@
+[
+  {
+    "producer" : "Toyota",
+    "model" : "Camry"
+  },
+  {
+    "producer" : "Kia",
+    "model" : "Soul"
+  },
+  {
+    "producer" : "Renault",
+    "model" : "Duster"
+  },
+  {
+    "producer" : "Renault",
+    "model" : "Megan"
+  }
+]
